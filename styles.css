@@ -1,0 +1,83 @@
+ body {
+		      color: magenta;
+			  font-weight: bold;
+			  font-family: times new roman;
+			  text-align: center;
+			  background-image: url('astrology3.jpg');
+			  background-position:center;
+			  background-attachment:scroll;
+              background-repeat: no-repeat;
+			  background-size: cover;
+              background-color: lightgrey; 
+			  margin-left: 50px;
+			  margin-right: 50px;
+			  margin-bottom:50px;
+			  margin-top: 50px;
+			  
+			}
+			
+		.button {
+                background-color: magenta;
+                font-size: 3mm;
+				font-family: times new roman;
+                padding-right: 0.15cm;
+				padding-left: 0.15cm;
+				padding-top: 0.3cm;
+				padding-bottom: 0.3cm;
+                border-radius: 3in;
+                border: 2px solid lightgrey;
+				box-shadow: 0 9px #999;
+                width: 100px; 
+				color: lightgrey;
+				text-align: left;
+				flow: left;
+				-webkit-transition-duration: 1s; 
+				transition-duration: 1s;
+				position:relative;
+				margin-top:2pt;
+				margin-bottom:10pt;
+
+				
+				}
+		.button:hover
+           		{
+		        background-color: purple
+				}
+
+        .button:active {
+                background-color: purple;
+                box-shadow: 0 5px #666;
+                
+						}
+		h1 {
+		      font-size: 500%;
+	
+		   }
+		h2{
+			font-size: 200%;
+		}
+		h4
+		   {
+			text-align:left;
+			font-size: 20pt;
+			padding-bottom:0.1mm;
+			padding-top:5pt;
+		   }
+		
+		th 
+		   { 
+		     font-size:15pt;
+			 color: blue;
+		   }
+		td {
+			font-size: 10pt;
+		   }
+		p 
+		   { 
+		    font-size:20pt;
+			text-decoration: none;
+		   }
+		table
+		{
+			margin-top:0.1pt;
+		}
